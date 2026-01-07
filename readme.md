@@ -1,1 +1,1 @@
-
+(VLM) into an end-to-end navigation. Unlike traditional navigation approaches that separate perception, planning, and control, our method uses a VLM to directly select actions in one step. This open-ended approach allows zero-shot navigation without prior exposure to navigation-specific data, generalizing to various downstream navigation tasks.
